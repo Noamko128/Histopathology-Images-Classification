@@ -16,4 +16,6 @@ Histopathology image classification is of immense significance in medical diagno
 
 
 *This project is my final project in the Deep Learning course as part of my Bachelor's degree in Digital Medical Technologies.
-![image](https://github.com/Noamko128/Histopathology-Images-Classification/assets/131696249/b9bc27ab-3ba2-4996-8cae-9d144c3b797d)
+
+<img width="533" alt="image" src="https://github.com/Noamko128/Histopathology-Images-Classification/assets/131696249/beac38cf-abbc-4318-a222-c354f2cb80e2">
+
